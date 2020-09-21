@@ -1,2 +1,1 @@
-# cadrage
-documentation de la phase de cadrage
+# Phase de cadrage
